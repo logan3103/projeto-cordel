@@ -97,7 +97,7 @@ section#img01{
 
 section#img02{
     
-    background-position: right bottom;
+    background-position:center center  ;
     background-repeat: no-repeat;
     background-image: url(rato.webp);
     background-size: cover;
